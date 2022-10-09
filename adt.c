@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<stdlib.h>
+
 struct adt
 {
     char* stu_name;
